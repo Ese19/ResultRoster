@@ -1,0 +1,13 @@
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.csprojAssemblyReference.cache
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.AssemblyInfoInputs.cache
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.AssemblyInfo.cs
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.csproj.CoreCompileInputs.cache
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.exe
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.deps.json
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.runtimeconfig.json
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.runtimeconfig.dev.json
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.dll
+C:\Users\hp\ResultRoster\bin\Debug\netcoreapp3.1\ResultRoster.pdb
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.dll
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.pdb
+C:\Users\hp\ResultRoster\obj\Debug\netcoreapp3.1\ResultRoster.genruntimeconfig.cache
